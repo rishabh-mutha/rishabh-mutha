@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Rishabh Mutha</h1>
+<h1 align="center">I'm Rishabh Mutha</h1>
 <h3 align="center">A passionate software developer | Angular | React | Javascript | TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizhameed&label=Profile%20views&color=0e75b6&style=flat" alt="faizhameed" /> </p>
