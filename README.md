@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rishabh Mutha</h1>
-<h3 align="center">A passionate software developer Angular | React | Javascript | TypeScript</h3>
+<h3 align="center">A passionate software developer | Angular | React | Javascript | TypeScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizhameed&label=Profile%20views&color=0e75b6&style=flat" alt="faizhameed" /> </p>
 
@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/faiz_hameed1993" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faiz_hameed1993" height="30" width="40" /></a> -->
+<!-- <a href="https://x.com/rishabhmutha5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="faiz_hameed1993" height="30" width="40" /></a> -->
 
-<a href="https://linkedin.com/in/faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="faizhameed" height="30" width="40" /></a>
-<a href="https://fb.com/faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="faizhameed" height="30" width="40" /></a>
-<a href="https://instagram.com/faiz_hameeed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="faiz_hameeed" height="30" width="40" /></a>
-<a href="https://medium.com/@faizhameed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@faizhameed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabhmutha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rishabhmutha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rishabh.mutha.77/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rishabhmutha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__aizen_sama__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rishabhmutha" height="30" width="40" /></a>
+<a href="https://medium.com/@rishabhmutha5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rishabhmutha" height="30" width="40" /></a>
 </p>
