@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 , Greetings!
 
 <!--
 **rishabh-mutha/rishabh-mutha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
